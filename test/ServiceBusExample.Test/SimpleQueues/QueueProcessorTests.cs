@@ -12,7 +12,7 @@ namespace ServiceBusExample.SimpleQueues
     //
     // WARNING: This Test integrates with the Azure ServiceBus whos endpoint is defined in the App.config file.
     //
-    // NOTE: For some unknown reason this solution doesn't like async tests.
+    // NOTE: For some reason this solution doesn't like async tests.
     //
     [TestClass]
     public class QueueProcessorTests
